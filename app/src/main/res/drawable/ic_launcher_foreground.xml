@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center circular shield/badge -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M54,26 C69.46,26 82,38.54 82,54 C82,69.46 69.46,82 54,82 C38.54,82 26,69.46 26,54 C26,38.54 38.54,26 54,26 Z" />
+
+    <!-- Mathematical Pi symbol in vibrant gold -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M39,42 C39,40.9 39.9,40 41,40 L67,40 C68.1,40 69,40.9 69,42 C69,43.1 68.1,44 67,44 L64,44 L64,62 C64,64.2 65.8,66 68,66 C68.6,66 69,66.4 69,67 C69,67.6 68.6,68 68,68 C64.7,68 62,65.3 62,62 L62,44 L46,44 L46,65 C46,66.7 44.7,68 43,68 C41.3,68 40,66.7 40,65 L40,44 L39,44 C37.9,44 37,43.1 37,42 C37,40.9 37.9,40 39,40 Z" />
+
+    <!-- Plus, Minus, Multiply, Root accents -->
+    <!-- Square root tick mark -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M33,52 L36,52 L39,59 L42,47 L45,47 L41,63 L38,63 L34.5,55 L33,55 Z" />
+
+    <!-- Plus sign in top right badge -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M70,35 L73,35 L73,32 L75,32 L75,35 L78,35 L78,37 L75,37 L75,40 L73,40 L73,37 L70,37 Z" />
+
+    <!-- Division / Equality dot accents -->
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M34,34 A2.5,2.5 0 1,0 34,39 A2.5,2.5 0 1,0 34,34 Z" />
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M74,68 A2.5,2.5 0 1,0 74,73 A2.5,2.5 0 1,0 74,68 Z" />
+</vector>

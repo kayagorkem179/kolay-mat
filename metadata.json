@@ -1,0 +1,6 @@
+{
+  "name": "KolayMat",
+  "description": "Yapay zeka destekli, tüm sınavlara ve okul yazılılarına hazırlık, sesli anlatım ve karalama tahtalı matematik öğrenme uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
